@@ -217,6 +217,6 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
-src/config.py
+notebooks/config.py
 
 models
